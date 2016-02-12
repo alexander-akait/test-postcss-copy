@@ -1,0 +1,10 @@
+@charset "utf-8";
+@import "photoswipe/dist/photoswipe.css";
+@import "photoswipe/dist/default-skin/default-skin.css";
+
+.superman {
+    background: url('../images/superman.jpg') no-repeat;
+    background-size: 300px 400px;
+    width: 300px;
+    height: 400px;
+}
